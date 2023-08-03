@@ -1,4 +1,7 @@
 ![b2r](assets/b2r.png)
+
+<img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png">
+
 <div align = center>
 
 # 42_born2beroot
