@@ -1,3 +1,4 @@
+![b2r](assets/b2r.png)
 <div align = center>
 
 # 42_born2beroot
@@ -9,14 +10,13 @@
 <div align = center>
 
 
-#### 
+####
 
- </div>
+ ___born2beroot aims to introduce you to the wonderful world of virtualization.___
 
- ## Description:
+</div>
 
-##### ___born2beroot is a project where we learn a little about virtualization and configuring it a little bit like a server!!!___
-
-- we need to choose between two os', Debian and Rocky.
-- we learn about some system features (like crontabs) and a little bit about scripts.
-- bonus part is about partioning and building a server, did the partitions but not the server :(.
+- You can choose between Debian and Rocky.
+- We learn about more advanced system features.
+- We set up a Virtual Machine from scratch.
+- We we start to develop SysAdmin skills.
